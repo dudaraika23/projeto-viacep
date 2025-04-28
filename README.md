@@ -14,7 +14,7 @@ Requisição realizada com método GET para a URL:
 
 Resultado:
 
-![Print do Teste no Postman](projeto-viacep/postman-teste.png)
+![Print do Teste no Postman](/postman-teste.png)
 
 
 ## Como executar:
