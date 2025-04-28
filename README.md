@@ -16,6 +16,9 @@ Resultado:
 
 ![Print do Teste no Postman](/postman-teste.png)
 
+## Teste do projeto - Print do resultado final
+
+![Print do Teste no Postman](/postman-teste.png)
 
 ## Como executar:
 - Coloque os arquivos em um servidor local (XAMPP, WAMP, Laragon ou o embutido do PHP).
