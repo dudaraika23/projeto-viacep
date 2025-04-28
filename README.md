@@ -14,7 +14,7 @@ Requisição realizada com método GET para a URL:
 
 Resultado:
 
-![Print do Teste no Postman](projeto-viacep/projeto-viacep/postman-teste.png)
+![Print do Teste no Postman](/projeto-viacep/postman-teste.png)
 
 ## Como executar:
 - Coloque os arquivos em um servidor local (XAMPP, WAMP, Laragon ou o embutido do PHP).
